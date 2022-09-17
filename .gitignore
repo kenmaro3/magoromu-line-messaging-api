@@ -1,0 +1,8 @@
+__pycache__
+*.png
+*.jpg
+make_token.sh
+config.py
+token.txt
+.DS_Store
+make_*
